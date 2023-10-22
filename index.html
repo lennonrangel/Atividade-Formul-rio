@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="./imagens/Imagem.png">
+    <title>Formulário Aluno UniAcademia</title>
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+
+<body>
+    <div class="container">
+        <section class="header">
+            <h1>Formulário Aluno UniAcademia</h1>
+        </section>
+
+        <form>
+            
+            <h3>Dados Pessoais</h3><br>
+
+            <fieldset class="grupo">
+                <div class="campo">
+                    <label for="nome">Nome</label>
+                    <input type="text" id="nome" name="nome" required>
+                </div>
+
+                <div class="campo">
+                    <label for="nome">Sobrenome</label>
+                    <input type="text" id="sobrenome" name="sobrenome" required>
+                </div>
+            </fieldset> 
+
+            <label for="data-nascimento">Data de Nascimento:</label>
+            <input type="date" id="data-nascimento" name="data-nascimento" required>
+
+            <label for="email">E-mail:</label>
+            <input type="email" id="email" name="email" required>
+
+            <label for="telefone">Telefone:</label>
+            <input type="tel" id="telefone" name="telefone" required>
+
+            <label for="sexo">Sexo:</label>
+            <select id="sexo" name="sexo">
+                <option value="masculino">Masculino</option>
+                <option value="feminino">Feminino</option>
+                <option value="outro">Outro</option>
+            </select>
+            <br>
+
+            <br><h3>Endereço</h3><br>
+            
+            <label for="rua">Rua:</label>
+            <input type="text" id="rua" name="rua" required>
+
+            <label for="numero">Número:</label>
+            <input type="text" id="numero" name="numero" required>
+
+            <label for="bairro">Bairro:</label>
+            <input type="text" id="bairro" name="bairro" required>
+
+            <label for="estado">Estado:</label>
+            <input type="text" id="estado" name="estado" required>
+
+            <label for="cidade">Cidade:</label>
+            <input type="text" id="cidade" name="cidade" required>
+            <br>
+            
+            <br><br><h3>Preferências</h3><br>
+
+            <div class="preferencia">
+                <div class="form-group">
+                  <input class="checkbox" id="checkbox1" type='checkbox'/>
+                  <label for="checkbox1">Jogos</label>
+                </div>
+                <div class="form-group">
+                  <input class="checkbox" id="checkbox2" type='checkbox'/>
+                  <label for="checkbox2">Esportes</label>
+                </div>
+                <div class="form-group">
+                    <input class="checkbox" id="checkbox2" type='checkbox'/>
+                    <label for="checkbox3">Notícias</label>
+                </div>
+                <div class="form-group">
+                    <input class="checkbox" id="checkbox2" type='checkbox'/>
+                    <label for="checkbox4">Livros</label>
+                </div>
+                <div class="form-group">
+                    <input class="checkbox" id="checkbox2" type='checkbox'/>
+                    <label for="checkbox5">Músicas</label>
+                </div>
+            </div>
+
+            <br><h3>Curso e Período</h3><br>
+            
+            <label for="curso">Curso:</label>
+            <input type="text" id="curso" name="curso">
+
+            <label for="periodo">Período:</label>
+            <input type="text" id="periodo" name="periodo"> 
+            <br>
+
+            <br><h3>Rede Social</h3><br>
+
+            <label for="rede-social">Perfil em Rede Social:</label>
+            <input type="text" id="rede-social" name="rede-social"> 
+            <br>
+
+            <br><h3>Opinião</h3><br>
+
+            <label for="opiniao">Deixe sua opinião:</label>
+            <textarea id="opiniao" name="opiniao"></textarea>
+
+            <div class="center-button">
+                <br><button type="submit">Enviar</button>
+            </div>
+        </form>
+    </div>
+</body>
+</html>
