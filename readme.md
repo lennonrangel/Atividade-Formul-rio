@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este código HTML e CSS é um formulário de inscrição para alunos da UniAcademia. Ele coleta informações pessoais, detalhes de contato, endereço, preferências, curso e período, perfil de rede social e uma seção para deixar comentários e opiniões.
+Este código HTML e CSS é um formulário de inscrição para alunos da UniAcademia, desenvolvido como parte da disciplina de Desenvolvimento de Websites. Ele coleta informações pessoais, detalhes de contato, endereço, preferências, curso e período, perfil de rede social e uma seção para deixar comentários e opiniões.
 
 ## Visão Geral
 
@@ -18,7 +18,6 @@ O projeto consiste em um formulário da UniAcademia, onde os alunos em potencial
 - Comentários e Opiniões: Os alunos podem compartilhar suas opiniões por meio de uma seção dedicada.
 
 <br><img src="https://media.discordapp.net/attachments/1002050908156334082/1166503709031805018/image.png?ex=654aba3c&is=6538453c&hm=c197ba0e51fe390eda72bcbe87d223b9939a7df71aba19cbe0568c2e4360e7c3&=&width=301&height=468"><img src="https://media.discordapp.net/attachments/1002050908156334082/1166503942230904934/image.png?ex=654aba74&is=65384574&hm=fe39c0df2b4f547e0a0416e84d05f2d6946e3be751426bd8806b5e9a46d16a4b&=&width=326&height=468">
-
 
 ## Personalização
 
