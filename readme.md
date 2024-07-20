@@ -17,7 +17,9 @@ O projeto consiste em um formulário da UniAcademia, onde os alunos em potencial
 - Rede Social: Há um campo para adicionar um perfil de rede social, se desejado.
 - Comentários e Opiniões: Os alunos podem compartilhar suas opiniões por meio de uma seção dedicada.
 
-<br><img src="https://media.discordapp.net/attachments/1002050908156334082/1166503709031805018/image.png?ex=654aba3c&is=6538453c&hm=c197ba0e51fe390eda72bcbe87d223b9939a7df71aba19cbe0568c2e4360e7c3&=&width=301&height=468"><img src="https://media.discordapp.net/attachments/1002050908156334082/1166503942230904934/image.png?ex=654aba74&is=65384574&hm=fe39c0df2b4f547e0a0416e84d05f2d6946e3be751426bd8806b5e9a46d16a4b&=&width=326&height=468">
+![image](https://github.com/user-attachments/assets/61255202-b89c-41a8-a3f9-d20800fa4fbc)
+<br>
+![image2](https://github.com/user-attachments/assets/49df9e14-2ed3-4d5a-bfb2-7dcfd9adadb0)
 
 ## Personalização
 
